@@ -11,7 +11,7 @@ import './assets/iconfont.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
-/* eslint-disable no-new */
+
 new Vue({
   el: '#app',
   router,
